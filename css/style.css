@@ -597,7 +597,7 @@ input[type="search"]::-webkit-search-results-decoration {
 .profile .profile-image {
   width: 50%;
 }
-@media (max-width: 480px) {
+@media (max-width: 600px) {
   .profile {
     flex-wrap: wrap;
   }
